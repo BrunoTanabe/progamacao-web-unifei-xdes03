@@ -31,7 +31,7 @@ Recomendamos o uso do Visual Studio Code com o Terminal UNIX (ou WSL para usuár
 Este repositório é colaborativo e encorajamos os estudantes a contribuir com materiais adicionais, soluções para exercícios ou qualquer conteúdo que possa enriquecer o aprendizado da disciplina.
 
 ## Créditos
-- **Professor**: Phyllipe Lima (phyllipe@unifei.edu.br)
+- **Professor**: Phyllipe Lima
 - **Instituição**: Universidade Federal de Itajubá - UNIFEI
 
 ---
